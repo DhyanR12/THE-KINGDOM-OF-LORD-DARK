@@ -1,5 +1,7 @@
 /......................................../
+
      THE KINGDOM OF LORD DARK
+     
 /......................................../
 Terminal Based Text Game
 * RPG
@@ -20,5 +22,7 @@ Press The Number Given To The Choices To access The Choices
 eg:
 1.ABCD
 2.WXYZ
+  
   To access them press the number before the Dot(.)
+  
 /......................................../
